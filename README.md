@@ -11,14 +11,16 @@
 Proyek ini dibuat sebagai bagian dari Ujian Akhir Semester untuk mata kuliah Kecerdasan Buatan. Kami melakukan studi dan implementasi model pembelajaran mesin untuk memprediksi penyakit jantung berdasarkan dataset yang relevan, dengan memanfaatkan algoritma **Random Forest Regressor**. Referensi kami berasal dari tiga jurnal penelitian ilmiah terkini.
 
 ## Struktur Folder
-├── UAS_AI.ipynb # Notebook utama yang berisi implementasi model
-├── TB_KECERDASAN BUATAN.pdf # Laporan proyek dalam bentuk PDF
-├── data/
-│ ├── heart.csv # Dataset utama
-│ ├── 524-File Utama Naskah-3628-1-10-20250119.pdf
-│ ├── Enhancing_Heart_Disease_Prediction_through_SMOTE-E.pdf
-│ ├── arahmah,+49_6_HYBRID+MACHINE+LEARNING+MODEL+UNTUK+MEMPREDIKSI+PENYAKIT+JANTUNG+PADA+SISTEM+INF.pdf
-│ ├── sas.txt # Data tambahan (tidak digunakan)
+
+UAS_AI.ipynb                  # Notebook utama yang berisi implementasi model  
+TB_KECERDASAN BUATAN.pdf      # Laporan proyek dalam bentuk PDF  
+data/
+  ├── heart.csv                                       # Dataset utama  
+  ├── 524-File Utama Naskah-3628-1-10-20250119.pdf    # Jurnal referensi 1  
+  ├── Enhancing_Heart_Disease_Prediction_through_SMOTE-E.pdf  # Jurnal referensi 2  
+  ├── arahmah,+49_6_HYBRID+MACHINE+LEARNING+MODEL...  # Jurnal referensi 3  
+  ├── sas.txt                                         # Data tambahan (tidak digunakan)
+
 
 ## Dataset
 Dataset utama `heart.csv` berisi data yang digunakan untuk melatih dan menguji model. Data ini mencakup fitur-fitur medis seperti tekanan darah, kolesterol, usia, dan lainnya yang relevan untuk diagnosis penyakit jantung.
