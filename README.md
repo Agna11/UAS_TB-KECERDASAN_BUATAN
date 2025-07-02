@@ -15,12 +15,10 @@ Proyek ini dibuat sebagai bagian dari Ujian Akhir Semester untuk mata kuliah Kec
 ├── TB_KECERDASAN BUATAN.pdf # Laporan proyek dalam bentuk PDF
 ├── data/
 │ ├── heart.csv # Dataset utama
-│ ├── *.pdf # Tiga file jurnal referensi
+│ ├── 524-File Utama Naskah-3628-1-10-20250119.pdf
+│ ├── Enhancing_Heart_Disease_Prediction_through_SMOTE-E.pdf
+│ ├── arahmah,+49_6_HYBRID+MACHINE+LEARNING+MODEL+UNTUK+MEMPREDIKSI+PENYAKIT+JANTUNG+PADA+SISTEM+INF.pdf
 │ ├── sas.txt # Data tambahan (tidak digunakan)
-
-markdown
-Copy
-Edit
 
 ## Dataset
 Dataset utama `heart.csv` berisi data yang digunakan untuk melatih dan menguji model. Data ini mencakup fitur-fitur medis seperti tekanan darah, kolesterol, usia, dan lainnya yang relevan untuk diagnosis penyakit jantung.
